@@ -1,0 +1,20 @@
+name: barcode_validator
+description: Barcode validator for flutter.
+version: 0.0.1
+author: Mohamed Elawadi
+homepage: https://github.com/mie00/barcode_validator
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# The following section is specific to Flutter.
+flutter:
